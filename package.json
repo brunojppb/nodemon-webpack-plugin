@@ -67,7 +67,7 @@
     "express": "4.17.1",
     "fs-extra": "9.0.0",
     "husky": "^4.2.3",
-    "lint-staged": "^10.0.9",
+    "lint-staged": "^10.2.3",
     "mustache": "4.0.1",
     "prettier": "^2.0.2",
     "release": "6.1.0",
